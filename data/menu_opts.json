@@ -1,0 +1,41 @@
+{
+    "nombreApp" : "foodshop",
+    "rutas" : [
+        
+        {
+            "ruta" : "comidas",
+            "icon" : "home",
+            "texto": "Home"
+        },
+        {
+            "ruta" : "Home",
+            "icon" : "perfil",
+            "texto": "Profile"
+        },
+        {
+            "ruta" : "Home",
+            "icon" : "message",
+            "texto": "Message"
+        },
+        {
+            "ruta" : "Home",
+            "icon" : "coupon",
+            "texto": "Coupon"
+        },
+        {
+            "ruta" : "Home",
+            "icon" : "order",
+            "texto": "My order"
+        },
+        {
+            "ruta" : "Home",
+            "icon" : "payment",
+            "texto": "Payment Method"
+        },
+        {
+            "ruta" : "Home",
+            "icon" : "languaje",
+            "texto": "Languaje"
+        }
+    ]
+}
